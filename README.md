@@ -1,2 +1,5 @@
-[ABOUT](http://lebioda.github.io/PrestaShop-modules-CleanURLs/)
+[ABOUT]
 ===============================================================
+prestashop/01-test-product.html to prestashop/test-product.html
+
+etc
